@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/App.ts"],
+  "sourcesContent": ["document.body.innerText = \"hello world\";"],
+  "mappings": ";;AAAA,WAAS,KAAK,YAAY;",
+  "names": []
+}
